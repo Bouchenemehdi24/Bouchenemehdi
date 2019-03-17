@@ -65,7 +65,7 @@ enableGitInfo = false
   email = "boucehenemahdi@gmail.com"
   address = "Laboratoire des Télécommunications (LT), Faculté des Sciences et de la Technologie, Université 8 mai 1945 Guelma, BP 401 GUELMA 24000 - ALGERIE"
   office_hours = "Saturday 10:00 to 12:00 at Laboratoire des Télécommunications"
-  phone = "+213 (0)6 59 84 76 12"
+  phone = "+213 (0)6 59 84 76 20"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -91,8 +91,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = ""
-  latitude = "36.449062"
-  longitude = "7.419356"
+  latitude = "36.451550"
+  longitude = "7.418991"
   zoom = 20
 
   # SITE SETUP
