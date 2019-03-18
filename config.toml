@@ -56,7 +56,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University 8 mai 1945 Guelma", url = "http://univ-guelma.dz" } ]
+  organizations = [ { name = "Université 8 mai 1945 Guelma", url = "http://univ-guelma.dz" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "mehdi.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -106,7 +106,7 @@ enableGitInfo = false
   font = "playfair"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Mohammed Mehdi Bouchene"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
