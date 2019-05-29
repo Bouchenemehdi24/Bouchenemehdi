@@ -21,4 +21,6 @@ weight = 90
 
 [Cours N°1](https://bouchenemehdi.netlify.com/teaching/bioinformatics/cours1-Intro-Bioinfo.ppt) <br>
 [Cours N°2](https://bouchenemehdi.netlify.com/teaching/bioinformatics/cours2.pdf)
+[Cours N°2](https://bouchenemehdi.netlify.com/teaching/bioinformatics/cours3.pdf)
+
 
