@@ -27,6 +27,9 @@ weight = 90
 [Cours N°6](https://bouchenemehdi.netlify.com/teaching/bioinformatics/cours6.pdf)<br>
 [Exerices](https://bouchenemehdi.netlify.com/teaching/bioinformatics/exercices.pdf)<br>
 [Solution exercice 5](https://bouchenemehdi.netlify.com/teaching/bioinformatics/solution-exo5.pdf)<br>
+[Comparaison et alignement de séquences](https://bouchenemehdi.netlify.com/teaching/bioinformatics/Comparaison-alignement-séquences.pdf)<br>
+
+
 
 
 
