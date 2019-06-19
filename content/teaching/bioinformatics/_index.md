@@ -26,5 +26,7 @@ weight = 90
 [Cours N°5](https://bouchenemehdi.netlify.com/teaching/bioinformatics/cours5.pdf)<br>
 [Cours N°6](https://bouchenemehdi.netlify.com/teaching/bioinformatics/cours6.pdf)<br>
 [Exerices](https://bouchenemehdi.netlify.com/teaching/bioinformatics/exercices.pdf)<br>
+[Solution exercice 6](https://bouchenemehdi.netlify.com/teaching/bioinformatics/exercices.pdf)<br>
+
 
 
