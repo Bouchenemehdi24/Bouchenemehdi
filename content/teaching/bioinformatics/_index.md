@@ -30,8 +30,6 @@ weight = 90
 [Comparaison et alignement de séquences](https://bouchenemehdi.netlify.com/teaching/bioinformatics/Comparaison-alignement-séquences.pdf)<br>
 <br>
 <br>
-<br>
-
 [Le site web de Jupyter Notebook(With Python)](https://jupyter.org/try)
 
 
