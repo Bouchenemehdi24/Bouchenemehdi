@@ -28,8 +28,11 @@ weight = 90
 [Exerices](https://bouchenemehdi.netlify.com/teaching/bioinformatics/exercices.pdf)<br>
 [Solution exercice 5](https://bouchenemehdi.netlify.com/teaching/bioinformatics/solution-exo5.pdf)<br>
 [Comparaison et alignement de séquences](https://bouchenemehdi.netlify.com/teaching/bioinformatics/Comparaison-alignement-séquences.pdf)<br>
+<br>
+<br>
+<br>
 
-
+[Le site web de Jupyter Notebook(With Python)](https://jupyter.org/try)
 
 
 
