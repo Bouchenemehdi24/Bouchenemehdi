@@ -1,5 +1,5 @@
 +++
-title = "Effects of structural parameters on the Light-Current characteristics of multiple-phase-shift DFB semiconductor laser with distributed coupling coefficient"
+title = "Time Domain Traveling Wave Model of Distributed Feedback semiconductor laser with weak optical feedback"
 date =  2019-09-10T00:00:00
 draft = false
 
