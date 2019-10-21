@@ -22,7 +22,7 @@ weight = 60
   - Computer networks
   
 - University of Guelma- Department of Ecology and Environmental Engineering (February 2019-Present):
-  - [Bioinformatics (Cours disponible en français)] (https://bouchenemehdi.netlify.com/teaching/bioinformatics/)
+  - Bioinformatics
 	
 - University of Guelma- Department of Electronics and Telecommunications (October 2018- February 2019):
 
