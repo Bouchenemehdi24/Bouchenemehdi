@@ -1,6 +1,6 @@
 +++
 title = "Effects of structural parameters on the Light-Current characteristics of multiple-phase-shift DFB semiconductor laser with distributed coupling coefficient"
-date =  2018-05-10T00:00:00
+date =  2019-09-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
