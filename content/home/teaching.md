@@ -31,7 +31,8 @@ weight = 60
   - Bioinformatics
   
 - University of Guelma- Department of Electronics and Telecommunications (Noember 2019- Now):
-  - Sensors and instrumentation
+  -[Sensors and instrumentation] (https://bouchenemehdi.netlify.com//teaching/sensors/)
+
   
   
 
