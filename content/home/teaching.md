@@ -30,5 +30,9 @@ weight = 60
 - University of Guelma- Department of Biology (October 2018- February 2019):
   - Bioinformatics
   
+- University of Guelma- Department of Electronics and Telecommunications (Noember 2019- Now):
+  - Sensors and instrumentation
+  
+  
 
 
