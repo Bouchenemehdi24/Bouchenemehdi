@@ -18,8 +18,4 @@ weight = 90
 +++
 
 
-## Capteurs et intrumentation
-
-[Chapitre N°1 Généralité sur les capteurs et la chaine de mesure](https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Chapitre-1.pdf) </br>
-
 
