@@ -18,3 +18,5 @@ weight = 90
 
 [Chapitre N°1 Généralité sur les capteurs et la chaine de mesure](https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Chapitre-1.pdf) </br>
 
+[Chapitre N°2 Les Conditionneurs]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Chapitre-2.pdf) </br>
