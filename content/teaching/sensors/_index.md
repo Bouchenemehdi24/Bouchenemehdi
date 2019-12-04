@@ -20,3 +20,6 @@ weight = 90
 
 [Chapitre N°2 Les Conditionneurs]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Chapitre-2.pdf) </br>
+
+[Chapitre N°3 Capteurs de température]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Chapitre_3.pdf) </br>
