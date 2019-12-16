@@ -23,3 +23,8 @@ weight = 90
 
 [Chapitre N°3 Capteurs de température]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Chapitre_3.pdf) </br>
+
+
+
+[TD1]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/TD1.pdf) </br>
