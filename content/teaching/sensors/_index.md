@@ -36,3 +36,9 @@ weight = 90
 [TD4]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/TD4.pdf) </br>
 
+[Devoir]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Devoir.pdf) </br>
+
+
+
+
