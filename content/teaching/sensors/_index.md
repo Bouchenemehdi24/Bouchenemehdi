@@ -41,7 +41,7 @@ weight = 90
 
 [Devoir]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Devoir.pdf) </br>
-
-
+[Suite TD4]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Suite%20TD%204.pdf)
 
 
