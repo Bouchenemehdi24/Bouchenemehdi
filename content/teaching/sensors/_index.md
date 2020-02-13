@@ -16,6 +16,9 @@ weight = 90
 +++
 ## Capteurs en instrumentation industrielle
 
+[Pv de note]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Pv-final-capteurs.pdf)
+</br></br>
 [Chapitre N°1 Généralité sur les capteurs et la chaine de mesure](https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Chapitre-1.pdf) </br>
 
 [Chapitre N°2 Les Conditionneurs]
@@ -45,4 +48,7 @@ weight = 90
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Suite%20TD%204.pdf)</br>
 
 [TD5]
-(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/TD5.pdf)
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/TD5.pdf)</br>
+
+
+
