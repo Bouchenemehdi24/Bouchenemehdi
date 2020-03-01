@@ -16,3 +16,6 @@ weight = 90
 +++
 ## Systèmes de Transmission et Architectures Optiques
 
+[Pv de note]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/cours1.pdf)
+</br>
