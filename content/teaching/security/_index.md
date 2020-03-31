@@ -14,7 +14,8 @@ subtitle = ""
 weight = 90
 
 +++
-## Securite  d’Information
+## Sécurité de l'information
+
 [Chapitre 1. Introduction à la Sécurité de l'information]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/Sécurité_de_l'Information/Chapitre1.pdf)
 </br>
