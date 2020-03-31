@@ -18,3 +18,6 @@ weight = 90
 [Introduction]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/optics/Introduction.pdf)
 </br>
+[Caractéristiques-de-la-lumière]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/optics/Caractéristiques-de-la-lumière.pdf)
+
