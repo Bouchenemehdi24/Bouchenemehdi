@@ -16,6 +16,6 @@ weight = 90
 +++
 ## Securite  d’Information
 [Chapitre 1. Introduction à laSécurité de l'information]
-(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/Sécurité de l'Information/Chapitre1- Introduction à la sécurité de l’information.pdf)
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/Sécurité_de_l'Information/Chapitre1- Introduction à la sécurité de l’information.pdf)
 </br>
 </br>
