@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Electronics & Telecommunications"
+  course = "PhD in EE"
   institution = "University of Guelma"
   year = 2018
 
