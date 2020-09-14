@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-Mohammed Mehdi Bouchene is a temporary assistant Professor at the University of Guelma, Algeria. He received a  PhD degree in Electronics and Telecommunications from the University of Guelma in 2018. He has authored  and co-authored several papers in international journal or conference proceedings. His current  research interests are Machine Learning and Computer Vision.
+Mohammed Mehdi Bouchene is a temporary assistant Professor at the University of Guelma, Algeria. He received a  PhD degree in Electrical engineering from the University of Guelma in 2018. He has authored  and co-authored several papers in international journal or conference proceedings. His current  research interests are Machine Learning and Computer Vision.
