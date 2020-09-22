@@ -24,4 +24,4 @@ weight = 90
 
 [Propagation de la lumière dans une fibre optique]
 
-(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/optics/Chapitre3-Propagation de la lumière dans une fibre optique.pdf)
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/optics/Chapitre3-Propagation-de-la-lumière-dans-FO.pdf)
