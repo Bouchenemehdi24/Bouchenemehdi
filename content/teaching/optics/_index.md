@@ -21,7 +21,6 @@ weight = 90
 [Caractéristiques-de-la-lumière]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/optics/Caractéristiques-de-la-lumière.pdf)
 </br>
-
-[Propagation de la lumière dans une fibre optique]
+[Propagation-de-la-lumière-dans-une-fibre-optique]
 
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/optics/Chapitre3-Propagation-de-la-lumière-dans-FO.pdf)
