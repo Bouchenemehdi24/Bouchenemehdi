@@ -15,6 +15,12 @@ weight = 90
 
 +++
 ## Systèmes de Transmission et Architectures Optiques
+
+
+[Mode-d’évaluatione]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/optics/Evaluation.pdf)
+
+</br>
 [Introduction]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/optics/Introduction.pdf)
 </br>
