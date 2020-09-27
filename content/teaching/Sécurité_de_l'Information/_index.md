@@ -18,3 +18,7 @@ weight = 90
 [Chapitre 1. Introduction à laSécurité de l'information]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/Sécurité_de_l'Information/Chapitre1.pdf)
 </br>
+
+[Chapitre 2. Concepts de cryptographie et de cryptanalyse]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/Sécurité_de_l'Information/Chapitre2.pdf)
+</br>
