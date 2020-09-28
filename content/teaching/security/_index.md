@@ -20,5 +20,5 @@ weight = 90
 </br>
 
 [Chapitre 2. Concepts de cryptographie et de cryptanalyse]
-(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/security/Chapitre2.pdf)
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/security/Chapitre2-Concepts-de-cryptographie-et-de-cryptanalyse.pdf)
 </br>
