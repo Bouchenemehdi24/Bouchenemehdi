@@ -16,6 +16,14 @@ weight = 90
 +++
 ## Sécurité de l'information
 
+
+[Evaluation de la matière SI]
+
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/security/Evaluation-de-la-matière-SI.pdf)
+</br>
+
+</br>
+
 [Chapitre 1. Introduction à la Sécurité de l'information]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/security/Chapitre1-Introduction-à-la-sécurité-de-l’information.pdf)
 </br>
