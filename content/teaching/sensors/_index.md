@@ -16,6 +16,15 @@ weight = 90
 +++
 ## Capteurs en instrumentation industrielle
 
+
+
+[Pv Rattrapage]
+
+
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Pv-final-Rattrapage.pdf)
+
+</br>
+
 [Pv de note]
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Pv-final-capteurs.pdf)
 </br></br>
