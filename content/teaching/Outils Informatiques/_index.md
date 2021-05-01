@@ -19,9 +19,8 @@ weight = 90
 
 [Chapitre 1. Introduction au monded'Informatique]
 
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/Outils%20Informatiques/Cours1_informatique.pdf)
 
-(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/Sécurité_de_l'Information/Evaluation-de-la-matière-SI.pdf)
-</br>
+
 </br>
 
-(
