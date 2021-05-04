@@ -1,7 +1,7 @@
 
 +++
-title = "Theorical analysis of a monolithic all-active three-section semiconductor laser"
-date =  2017-12-01T00:00:00
+title = "Modélisation des propriétés dynamiques des lasers DFB (Distributed FeedBack) à semi-conducteur en présence de rétroaction optique"
+date =  2018-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
