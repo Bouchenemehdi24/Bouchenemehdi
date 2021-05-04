@@ -31,7 +31,7 @@ weight = 60
   - Bioinformatics
   
 - University of Guelma- Department of Electronics and Telecommunications (Noember 2019- February 2020):
-  -[Sensors and instrumentation] (https://bouchenemehdi.netlify.com/teaching/sensors/)
+  -[Sensors and instrumentation] (https://bouchenemehdi.netlify.com/teaching/Outils Informatiques/)
 
  -University of Guelma- Department of Electronics and Telecommunications (February 2020- October 2020): 
  -[Systèmes de Transmission et Architectures Optiques] (https://bouchenemehdi.netlify.com/teaching/optics/)
