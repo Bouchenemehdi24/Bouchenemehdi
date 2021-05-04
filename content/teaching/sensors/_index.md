@@ -18,15 +18,15 @@ weight = 90
 
 
 
-[Pv Rattrapage]
+##[Pv Rattrapage]
 
 
-(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Pv-final-Rattrapage.pdf)
+##(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Pv-final-Rattrapage.pdf)
 
 </br>
 
-[Pv de note]
-(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Pv-final-capteurs.pdf)
+##[Pv de note]
+##(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Pv-final-capteurs.pdf)
 </br></br>
 [Chapitre N°1 Généralité sur les capteurs et la chaine de mesure](https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Chapitre-1.pdf) </br>
 
