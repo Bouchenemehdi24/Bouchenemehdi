@@ -40,5 +40,5 @@ weight = 60
   -[Sécurité de l'Information] (https://bouchenemehdi.netlify.com/teaching/security/)
  
   University of Guelma- Department of SNV (February 2021- Now):
-  -[Outils Informatiques] (https://bouchenemehdi.netlify.com/teaching/security/)
+  -[Outils Informatiques] (https://bouchenemehdi.netlify.com/teaching/informatique/)
 
