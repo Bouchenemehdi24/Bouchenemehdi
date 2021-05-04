@@ -2,7 +2,7 @@
 +++
 title = "Modélisation des propriétés dynamiques des lasers DFB (Distributed FeedBack) à semi-conducteur en présence de rétroaction optique"
 date =  2018-11-20T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Mohammed Mehdi Bouchene**"]
