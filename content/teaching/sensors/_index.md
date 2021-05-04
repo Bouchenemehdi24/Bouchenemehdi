@@ -17,17 +17,7 @@ weight = 90
 ## Capteurs en instrumentation industrielle
 
 
-
-##[Pv Rattrapage]
-
-
-##(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Pv-final-Rattrapage.pdf)
-
 </br>
-
-##[Pv de note]
-##(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Pv-final-capteurs.pdf)
-</br></br>
 [Chapitre N°1 Généralité sur les capteurs et la chaine de mesure](https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/sensors/Chapitre-1.pdf) </br>
 
 [Chapitre N°2 Les Conditionneurs]
