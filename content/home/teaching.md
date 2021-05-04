@@ -17,11 +17,11 @@ weight = 60
 +++
 
 
-- University of Guelma- Department of Electronics and Telecommunications (February 2019-Present):
+- University of Guelma- Department of Electronics and Telecommunications (February 2019-July 2019):
   - Combinatorial and Sequential logic
   - Computer networks
   
-- University of Guelma- Department of Ecology and Environmental Engineering (February 2019-Present):
+- University of Guelma- Department of Ecology and Environmental Engineering (February 2019-July):
   - Bioinformatics
 	
 - University of Guelma- Department of Electronics and Telecommunications (October 2018- February 2019):
@@ -33,7 +33,12 @@ weight = 60
 - University of Guelma- Department of Electronics and Telecommunications (Noember 2019- February 2020):
   -[Sensors and instrumentation] (https://bouchenemehdi.netlify.com/teaching/sensors/)
 
-  University of Guelma- Department of Electronics and Telecommunications (February 2020- Now): -[Systèmes de Transmission et Architectures Optiques] (https://bouchenemehdi.netlify.com/teaching/optics/)
+ -University of Guelma- Department of Electronics and Telecommunications (February 2020- October 2020): 
+ -[Systèmes de Transmission et Architectures Optiques] (https://bouchenemehdi.netlify.com/teaching/optics/)
   
-  University of Guelma- Department of Electronics and Telecommunications (February 2020- Now): -[Sécurité de l'Information] (https://bouchenemehdi.netlify.com/teaching/security/)
+  University of Guelma- Department of Electronics and Telecommunications (February 2020- October 2020):
+  -[Sécurité de l'Information] (https://bouchenemehdi.netlify.com/teaching/security/)
+ 
+  University of Guelma- Department of SNV (February 2021- Now):
+  -[Outils Informatiques] (https://bouchenemehdi.netlify.com/teaching/security/)
 
