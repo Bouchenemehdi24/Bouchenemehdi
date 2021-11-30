@@ -17,10 +17,9 @@ weight = 90
 ## Securite  d’Information
 
 
-[Chapitre 1. Introduction au monde d'Informatique]
+[Chapitre.1 Introduction, systèmes de commande, systèmes de supervision, MES]
 
-(chapitre1- Introduction_systèmes_sde_scommande_systèmes de supervision_MES.pdf)
-
+https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/acbe8b983be829174eddfd9192ba9498d13e530b/content/teaching/automatisation%20des%20syst%C3%A8mes%20industriels/chapitre1-%20Introduction_syst%C3%A8mes_sde_scommande_syst%C3%A8mes%20de%20supervision_MES.pdf
 
 </br>
 
