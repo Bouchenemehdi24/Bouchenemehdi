@@ -18,7 +18,6 @@ weight = 90
 
 </br>
 [Chapitre.1 Introduction, systèmes de commande, systèmes de supervision, MES]
-
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/automatisation/chapitre1-Introduction_systèmes_sde_scommande_systèmes_de_supervision_MES.pdf)
 
 
