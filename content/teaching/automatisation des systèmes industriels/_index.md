@@ -19,7 +19,7 @@ weight = 90
 
 [Chapitre 1. Introduction au monde d'Informatique]
 
-(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/Outils%20Informatiques/Cours1_informatique.pdf)
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/automatisation des systèmes industriels/chapitre1- Introduction_systèmes_sde_scommande_systèmes de supervision_MES.pdf)
 
 
 </br>
