@@ -17,7 +17,7 @@ weight = 60
 +++
 
   University of Guelma- Department of mechanical engineering (October 2021- Now):
-  -[automatisation des systèmes industriels] (https://bouchenemehdi.netlify.com/teaching/automatisation des systèmes industriels/)
+  -[automatisation des systèmes industriels] (https://bouchenemehdi.netlify.com/teaching/automatisation%20des%20syst%C3%A8mes%20industriels/)
 
 
 - University of Guelma- Department of Electronics and Telecommunications (February 2019-July 2019):
