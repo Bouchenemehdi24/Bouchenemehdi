@@ -16,6 +16,9 @@ weight = 60
 
 +++
 
+  University of Guelma- Department of Electronics and Telecommunications (October 2021- Now):
+  -[Sécurité de l'Information] (https://bouchenemehdi.netlify.com/teaching/automatisation des systèmes industriels/)
+
 
 - University of Guelma- Department of Electronics and Telecommunications (February 2019-July 2019):
   - Combinatorial and Sequential logic
