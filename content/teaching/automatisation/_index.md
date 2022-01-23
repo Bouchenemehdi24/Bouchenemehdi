@@ -33,3 +33,15 @@ weight = 90
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/automatisation/ch3-systemes-sequentiels-grafcet.pdf)
 
 </br>
+
+[Chapitre4. La Supervision Industrielle]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/automatisation/Supervision.pdf)
+
+
+
+
+
+
+
+
+</br>
