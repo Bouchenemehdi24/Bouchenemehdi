@@ -28,3 +28,8 @@ weight = 90
 (https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/automatisation/Chapitre2-Systèmes_automatisés.pdf)
 
 </br>
+
+[Chapitre.2 Systèmes_automatisés]
+(https://github.com/Bouchenemehdi24/Bouchenemehdi/blob/master/content/teaching/automatisation/ch3-systemes-sequentiels-grafcet.pdf)
+
+</br>
