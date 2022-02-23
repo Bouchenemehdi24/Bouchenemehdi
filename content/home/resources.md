@@ -18,6 +18,9 @@ weight = 66
 
 ## Source codes
 
+ <i class="fas fa-codes"></i> [Facial-expression-recognition-with-HOG-and-SVM](https://github.com/Bouchenemehdi24/Facial-expression-recognition-with-HOG-and-SVM) 
+ This nootebook ilustrate the using Histogram of oriented gradients descriptor features with RBF based SVM for facial expression recognition.
+
 <i class="fas fa-codes"></i> [Matlab simulation of DFB laser](https://github.com/Bouchenemehdi24/DFB-laser)  This code is a Matlab implemetation used for the simulation of the effect of facets reflectivity on the static characteristics of (DFB) semiconductor laser using Time Domain Traveling Wave model, described in the paper @inproceedings{bouchene2018,
 title={The effect of facets reflectivity on the static characteristics of (DFB) semiconductor laser},
 author={Bouchene, Mohammed Mehdi and Hamdi, Rachid},
